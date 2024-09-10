@@ -27,14 +27,14 @@ img {
 
 p {
   text-align: justify;
+  text-align: center;
 }
 
 .clear {
   clear: both;
 }
 
-footer p {
-  text-align: center;
+footer {
   margin-top: 20px;
   background-color: #f4f4f4;
   padding: 10px 0;
